@@ -1,0 +1,100 @@
+{
+  "tables": [
+    {
+      "name": "Assento 1",
+      "capacity": 5,
+      "isAvailable": true,
+      "location": "Bar"
+    },
+    {
+      "name": "Assento 2",
+      "capacity": 5,
+      "isAvailable": true,
+      "location": "Patio"
+    },
+    {
+      "name": "Assento 3",
+      "capacity": 5,
+      "isAvailable": true,
+      "location": "Bar"
+    },
+    {
+      "name": "Assento 4",
+      "capacity": 6,
+      "isAvailable": true,
+      "location": "Inside"
+    },
+    {
+      "name": "Assento 5",
+      "capacity": 7,
+      "isAvailable": true,
+      "location": "Patio"
+    },
+    {
+      "name": "Assento 6",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Patio"
+    },
+    {
+      "name": "Assento 7",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Bar"
+    },
+    {
+      "name": "Assento 8",
+      "capacity": 3,
+      "isAvailable": true,
+      "location": "Bar"
+    },
+    {
+      "name": "Assento 9",
+      "capacity": 5,
+      "isAvailable": true,
+      "location": "Patio"
+    },
+    {
+      "name": "Assento 10",
+      "capacity": 4,
+      "isAvailable": true,
+      "location": "Patio"
+    },
+    {
+      "name": "Assento 11",
+      "capacity": 3,
+      "isAvailable": true,
+      "location": "Bar"
+    },
+    {
+      "name": "Assento 12",
+      "capacity": 5,
+      "isAvailable": true,
+      "location": "Inside"
+    },
+    {
+      "name": "Assento 13",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Bar"
+    },
+    {
+      "name": "Assento 14",
+      "capacity": 3,
+      "isAvailable": true,
+      "location": "Patio"
+    },
+    {
+      "name": "Assento 15",
+      "capacity": 7,
+      "isAvailable": true,
+      "location": "Patio"
+    },
+    {
+      "name": "Assento 16",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Inside"
+    }
+  ]
+}
