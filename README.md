@@ -26,6 +26,5 @@ Quando precisamos trabalhar com aplicações distribuídas, é fundamental garan
 
 # Principais telas
 ![Logo](https://github.com/IsadoraFerrao/Reserva-aerea-dio/blob/master/tela-reservas.png)
-![Logo](https://github.com/IsadoraFerrao/Reserva-aerea-dio/blob/master/tela-main.png)
 
 
