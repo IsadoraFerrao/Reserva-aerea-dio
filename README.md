@@ -24,4 +24,8 @@ Quando precisamos trabalhar com aplicações distribuídas, é fundamental garan
 ### 🟠 `npm add dotenv`
 
 
+# Principais telas
+![Logo](https://github.com/IsadoraFerrao/Reserva-aerea-dio/blob/master/tela-reservas.png)
+![Logo](https://github.com/IsadoraFerrao/Reserva-aerea-dio/blob/master/tela-main.png)
+
 
